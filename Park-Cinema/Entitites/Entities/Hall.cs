@@ -14,6 +14,5 @@ namespace Entity.Entities
         public string AcusticSystem { get; set; }
         public int LanguageId { get; set; }
         public Language Language { get; set; }
-        public ICollection<BranchHall> BranchHalls { get; set; }
     }
 }

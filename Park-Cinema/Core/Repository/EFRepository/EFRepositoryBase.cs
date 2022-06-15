@@ -123,6 +123,5 @@ namespace Core.Repository.EFRepository
                 throw;
             }
         }
-
     }
 }

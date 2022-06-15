@@ -21,10 +21,6 @@ namespace Entity.Entities
         public IFormFile Photo { get; set; }
         public int LanguageId { get; set; }
         public Language Language { get; set; }
-        public int MovieDetailId { get; set; }
-        public MovieDetail MovieDetail { get; set; }
-        //public ICollection<MovieFormat> MovieFormats { get; set; }
-        //public ICollection<Session> Sessions { get; set; }
 
     }
 }

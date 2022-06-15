@@ -11,9 +11,10 @@ namespace Entity.Entities
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        
         public string Image { get; set; }
         public int LanguageId { get; set; }
         public Language Language { get; set; }
-        public ICollection<MovieFormat> MovieFormats { get; set; }
+        //public ICollection<MovieFormat> MovieFormats { get; set; }
     }
 }

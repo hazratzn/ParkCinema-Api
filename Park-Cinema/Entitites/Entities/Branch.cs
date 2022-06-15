@@ -16,7 +16,5 @@ namespace Entity.Entities
         public string WorkingHours { get; set; }
         public int LanguageId { get; set; }
         public Language Language { get; set; }
-        public ICollection<Session> Sessions { get; set; }
-      
     }
 }
