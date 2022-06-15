@@ -1,0 +1,11 @@
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\bin\Debug\net5.0\Entitites.deps.json
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\bin\Debug\net5.0\Entitites.dll
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\bin\Debug\net5.0\ref\Entitites.dll
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\bin\Debug\net5.0\Entitites.pdb
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\obj\Debug\net5.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\obj\Debug\net5.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\obj\Debug\net5.0\Entitites.AssemblyInfo.cs
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\obj\Debug\net5.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\obj\Debug\net5.0\Entitites.dll
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\obj\Debug\net5.0\ref\Entitites.dll
+C:\Users\Rail\Desktop\Park-Cinema_Front\Park-Cinema\Entitites\obj\Debug\net5.0\Entitites.pdb
