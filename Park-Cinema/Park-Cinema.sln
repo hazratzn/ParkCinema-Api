@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Park-Cinema.API", "Park-Cinema.API\Park-Cinema.API.csproj", "{55947401-B146-4859-9C19-86EC28EE20BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Park_Cinema.API", "Park-Cinema.API\Park_Cinema.API.csproj", "{55947401-B146-4859-9C19-86EC28EE20BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{51DBDBBB-99CD-4B46-BF46-7BC91DB4BAED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{51DBDBBB-99CD-4B46-BF46-7BC91DB4BAED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{FCDF485E-5135-43D5-953C-B5D9ED33B2CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{FCDF485E-5135-43D5-953C-B5D9ED33B2CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{F6BDBFA3-6F54-47B6-B78F-8ED40E24D29E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{F6BDBFA3-6F54-47B6-B78F-8ED40E24D29E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entitites\Entity.csproj", "{192CF9AA-73C7-40E6-862A-DF319F5C608B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "Entitites\Entity.csproj", "{192CF9AA-73C7-40E6-862A-DF319F5C608B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

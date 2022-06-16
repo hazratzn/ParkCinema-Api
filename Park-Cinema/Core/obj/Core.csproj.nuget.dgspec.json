@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rail\\Desktop\\Park-Cinema_API\\Park-Cinema\\Core\\Core.csproj": {}
+    "/Users/fuadtag/Park-Cinema_API/Park-Cinema/Core/Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rail\\Desktop\\Park-Cinema_API\\Park-Cinema\\Core\\Core.csproj": {
+    "/Users/fuadtag/Park-Cinema_API/Park-Cinema/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rail\\Desktop\\Park-Cinema_API\\Park-Cinema\\Core\\Core.csproj",
+        "projectUniqueName": "/Users/fuadtag/Park-Cinema_API/Park-Cinema/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Rail\\Desktop\\Park-Cinema_API\\Park-Cinema\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Rail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rail\\Desktop\\Park-Cinema_API\\Park-Cinema\\Core\\obj\\",
+        "projectPath": "/Users/fuadtag/Park-Cinema_API/Park-Cinema/Core/Core.csproj",
+        "packagesPath": "/Users/fuadtag/.nuget/packages/",
+        "outputPath": "/Users/fuadtag/Park-Cinema_API/Park-Cinema/Core/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Rail\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/fuadtag/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

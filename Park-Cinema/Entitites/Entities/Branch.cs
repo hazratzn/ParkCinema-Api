@@ -1,20 +1,25 @@
-﻿using Core.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using Core.Entities;
+using Microsoft.AspNetCore.Http;
 
 namespace Entity.Entities
 {
-    public class Branch:IEntity
+    public class Branch : IEntity
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Address { get; set; }
         public string Number { get; set; }
         public string WorkingHours { get; set; }
-        public int LanguageId { get; set; }
-        public Language Language { get; set; }
+        public int HallCount { get; set; }
+        public string AcusticSystem { get; set; }
+        public string HallFormatType { get; set; }
+        public string BarsChoose { get; set; }
+        public string Projects { get; set; }
+        [NotMapped] 
+        public IFormFile ImageFile { get; set; }
+        public string Image { get; set; }
+        public IList<Photo> Photos { get; set; }
+        public ICollection<Hall> Halls { get; set; }
+        public ICollection<BranchLanguage> BranchLanguages { get; set; }
     }
 }

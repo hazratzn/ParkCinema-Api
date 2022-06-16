@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Entity.Dto
 {
-    public class HallDto
+    class RowDto
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public int SeatNumber { get; set; }
+        public bool Buyed { get; set; }
+        public int RowId { get; set; }
     }
 }

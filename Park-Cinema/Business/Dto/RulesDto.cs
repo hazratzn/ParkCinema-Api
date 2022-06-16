@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Entity.Dto
 {
-    public class FormatDto
+    public class RulesDto
     {
         public int Id { get; set; }
+        public string MainTitle { get; set; }
+        public string MainDescription { get; set; }
+        public string SubTitle { get; set; }
+        public string SubDescription { get; set; }
         public string Image { get; set; }
-        public string Name { get; set; }
-
     }
 }

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Entity.Dto
 {
-    public class MovieDto
+    public class SessionDto
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Image { get; set; }
-        public int Age { get; set; }
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
+        public int MovieId { get; set; }
+        public int HallId { get; set; }
+        public int BranchId { get; set; }
     }
 }

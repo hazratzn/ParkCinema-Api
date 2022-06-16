@@ -7,13 +7,12 @@ using System.Threading.Tasks;
 
 namespace Entity.Entities
 {
-    public class MovieFormat:IEntity
+    public class Imax:IEntity
     {
         public int Id { get; set; }
-        public int MovieId { get; set; }
-        public Movie Movie { get; set; }
-        public int FormatId { get; set; }
-        public Format Format { get; set; }
-
+        public string CoverImage { get; set; }
+        public string Title { get; set; }
+        public int LanguageId { get; set; }
+        public Language Language { get; set; }
     }
 }
